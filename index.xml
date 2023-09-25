@@ -5,7 +5,17 @@
     <link>/</link>
     <description>Recent content on Mondial Organic</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Sep 2023 14:42:42 +0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test1</title>
+      <link>/posts/test1/</link>
+      <pubDate>Sun, 24 Sep 2023 14:42:42 +0500</pubDate>
+      
+      <guid>/posts/test1/</guid>
+      <description>Hello this is a test</description>
+    </item>
+    
     <item>
       <title>Fig Dried Leaves</title>
       <link>/products/fig/</link>
